@@ -1,4 +1,4 @@
-# etl-transaksi-banking-domain
+# ETL Pipeline for banking domain
 This project simulates the end-to-end ETL process and modeling of a small-scale data warehouse (data mart) for the banking domain, built using Microsoft SSIS and SQL Server. The use cases were designed to align with an environment involving regular financial data.
 
 ## 🗂️ Arsitektur Data
